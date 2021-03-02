@@ -1,1 +1,8 @@
+===== Manual de utilização script de backup configuração consolas Fortinet =====
 
+1. Instalar localmente python3 através de www.python.org
+2. Instalar através da linha de comandos do Windows a libraria "netmiko" do python através de www.pypi.org/project/netmiko/
+3. Substituir no código os ip's de destino de cada máquina
+4. Executar o script para obter o backup de configuração da consola desejada
+
+Nota: Os ficheiros de backup são guardados na mesma localização onde se encontra o scipt a executar
